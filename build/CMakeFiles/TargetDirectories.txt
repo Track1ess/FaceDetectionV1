@@ -1,0 +1,3 @@
+/home/ntu/CLionProjects/faceDetection/build/CMakeFiles/faceDetection.dir
+/home/ntu/CLionProjects/faceDetection/build/CMakeFiles/edit_cache.dir
+/home/ntu/CLionProjects/faceDetection/build/CMakeFiles/rebuild_cache.dir

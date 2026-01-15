@@ -1,0 +1,2 @@
+filename,detected,prob,detect_ms,embed_ms,total_ms
+/home/ntu/CLionProjects/faceDetection/build/capturedFace.jpg,True,0.999995,1530.578,270.056,1800.915

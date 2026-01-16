@@ -10,8 +10,8 @@ FaceDetectionV1 is a C/C++ (CMake-based) face detection project. This repository
 conda env create -f environment.yml
 conda activate FaceDetectionV1
 
-cd build
-./FaceDetection
+- cd build
+- ./FaceDetection
 
 ## Output
 
